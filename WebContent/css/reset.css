@@ -1,0 +1,19 @@
+/* 
+* @Author: anchen
+* @Date:   2016-04-11 21:06:39
+* @Last Modified by:   anchen
+* @Last Modified time: 2016-07-01 09:58:59
+*/
+body,h1,h2,h3,h4,h5,h6,dl,dt,dd,ul,li,p,input,button,hr{margin:0;padding:0}
+body,button,input{ font:12px/1.5 "微软雅黑",arial, verdana, sans-serif}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+li{list-style:none}
+img{border:0}
+input{border:0}
+input:focus { outline: none }
+q:before,q:after{content:”}
+button,input{font-size:100%}
+legend{color:#000}
+small{font-size:12px}
+hr{border:none;height:1px}
+a{text-decoration:none}
